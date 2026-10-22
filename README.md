@@ -3,9 +3,9 @@
 </div>
 
 - 👋 Hi, I’m Hoang Tan Lam.
-- 👀 I’m interested in IoTs and Mathematics.
+- 👀 I’m interested in IoTs, and Software Developments.
 - 🌱 I’m currently learning at Ho Chi Minh City University of Techonology, VNU-HCM.
-- 💞️ I'm a 3rd year student studying for Bachelor of Computer Engineering, currently I'm also starting to study for Master of Computer Science.
+- 💞️ I'm a final-year student studying for Bachelor of Computer Engineering, currently I'm also starting to study for Master of Computer Science.
 - 📫 You can contact me via tan.lamhoangce22@hcmut.edu.vn
 
 
